@@ -17,4 +17,20 @@ The Cherry Leaf Mildew Detection Dashboard is designed to offer a straightforwar
 
 * Visual clarity is a key aspect of the dashboard's effectiveness. The uploaded image is prominently displayed, allowing users to see exactly what is being analyzed. The results are presented in a bold and straightforward manner, making it easy to understand the condition of the leaf at a glance.
 
+### Target Audience 
+The Cherry Leaf Mildew Detection Dashboard is designed to serve a diverse range of users involved in the agricultural sector, from small-scale farmers to large agribusinesses, as well as agricultural researchers and educators. This tool is invaluable for anyone invested in the health and productivity of cherry crops and potentially other crops in the future.
+
+1. Farmers and Agricultural Workers:
+* Small-Scale Farmers: Those managing small or family-owned cherry farms will find this tool particularly useful for maintaining crop health without the need for extensive manual inspections. The dashboard provides a quick, reliable method to monitor and manage powdery mildew, helping to protect their livelihood with minimal investment in time and resources.
+* Large-Scale Producers: Agribusinesses with expansive cherry orchards can leverage the dashboard to efficiently oversee their plantations. This tool enables them to implement a scalable solution for disease detection, significantly reducing the labor and time required for monitoring large numbers of trees.
+
+2. Agricultural Consultants and Crop Advisors:
+* Professionals who advise farmers on crop management can use this dashboard as a diagnostic tool to provide timely and accurate recommendations for disease treatment. It enhances their ability to support their clients with precise and actionable insights into crop health.
+
+3. Researchers and Academics:
+* Agricultural Researchers: Those studying plant diseases and their impact on crops can utilize the dashboard as part of their research toolkit. It offers a practical application for testing hypotheses and collecting data on powdery mildew prevalence and management strategies.
+* Educational Institutions: Universities and colleges with agricultural programs can incorporate this tool into their curriculum, providing students with hands-on experience in using technology to solve real-world agricultural challenges.
+
+4. Technology Enthusiasts and Innovators in Agriculture:
+* Individuals and companies interested in the intersection of technology and agriculture will find this project a compelling example of how machine learning can be applied to practical problems in farming. It serves as a model for integrating AI into traditional agricultural practices.
 
