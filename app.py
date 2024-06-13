@@ -23,6 +23,20 @@ def predict(image):
 st.title('Cherry Leaf Mildew Detection')
 st.write('Upload an image of a cherry leaf to detect if it is healthy or has powdery mildew.')
 
+# Hypotheses Section
+st.header('Hypotheses')
+st.write("""
+In this section, we outline the key hypotheses related to the detection of powdery mildew on cherry leaves:
+
+1. **Image Quality**: High-quality images with clear visibility of the leaf surface will yield more accurate predictions.
+2. **Leaf Texture and Color**: The model distinguishes between healthy leaves and those affected by mildew based on texture and color differences.
+3. **Lighting Conditions**: Images taken under uniform lighting conditions improve the model's ability to correctly classify the health status of the leaf.
+4. **Environmental Factors**: The appearance of powdery mildew might vary under different environmental conditions, affecting the model's accuracy.
+
+These hypotheses guide our approach in both data collection and model training to improve the detection accuracy.
+""")
+
+
 # Image upload section
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "png", "jpeg"])
 if uploaded_file is not None:

@@ -34,3 +34,4 @@ The Cherry Leaf Mildew Detection Dashboard is designed to serve a diverse range 
 4. Technology Enthusiasts and Innovators in Agriculture:
 * Individuals and companies interested in the intersection of technology and agriculture will find this project a compelling example of how machine learning can be applied to practical problems in farming. It serves as a model for integrating AI into traditional agricultural practices.
 
+### User Stories 
